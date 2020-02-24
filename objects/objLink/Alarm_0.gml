@@ -1,0 +1,1 @@
+oAStar.roomChange = false
