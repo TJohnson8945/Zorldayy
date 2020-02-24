@@ -16,7 +16,7 @@ This game was created using GameMaker Studio 2, and runs in said program.
 
 ## Explaining the Game
 
-### Ganmeplay
+### Ganmplay
 The game follows a very similar style to the original Legend of Zelda. The difference being that we had a three week time limit to complete so we designed our own over world and dungeon. The player has health that is in two parts. Some damage will take half a heart. The objective is to collect the three keys in the dungeons to get upgraded weapons, and the boss key which are in the over world. Once you have collected the boss key, head to the boss and defeat them. It will drop a "Trophy" that needs to be taken to the over world in order to win the game.
 
 ### Enemies
