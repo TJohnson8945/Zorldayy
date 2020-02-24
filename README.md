@@ -7,7 +7,7 @@ kinks.
 ## Team Members
 Tyler Johnson\
 Matthew Vines\
-Antonio Madison\ 
+Antonio Madison\
 Montell Normal\
 
 
