@@ -5,10 +5,10 @@ We had wanted to incorporate A* enemy pathfinding and tilebased collision. So we
 kinks.
 
 ## Team Members
-Tyler Johnson
-Matthew Vines
-Antonio Madison
-Montell Normal
+Tyler Johnson. 
+Matthew Vines. 
+Antonio Madison. 
+Montell Normal. 
 
 
 ## Getting Started
