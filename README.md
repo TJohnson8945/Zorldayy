@@ -8,7 +8,7 @@ kinks.
 Tyler Johnson\
 Matthew Vines\
 Antonio Madison\
-Montell Normal\
+Montell Normal
 
 
 ## Getting Started
